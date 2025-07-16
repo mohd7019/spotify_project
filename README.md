@@ -1,6 +1,6 @@
 # spotify_project
 
-![Database Schema Screenshot]()
+![Database Schema Screenshot](dataset_spotify/spotify-logo-1024x651.webp)
 
 
 # 🎵 Spotify Tracks & Performance Data Analysis
